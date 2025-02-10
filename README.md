@@ -21,4 +21,10 @@ I specialize in **data engineering, DevOps, and cloud solutions**, focusing on *
 🔗 [Virtual Labs](https://www.labsvirtual.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/sylvion-finisie)  
 
+## 📅 Book a Meeting with Me  
+Want to chat about **data engineering, DevOps, or collaborations**?  
+Schedule a meeting directly via my **Microsoft Bookings page**:  
+
+🔗 [Book a Meeting](https://outlook.office.com/bookings/newmeetingtypecompose)  
+
 
