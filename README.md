@@ -25,6 +25,6 @@ I specialize in **data engineering, DevOps, and cloud solutions**, focusing on *
 Want to chat about **data engineering, DevOps, or collaborations**?  
 Schedule a meeting directly via my **Microsoft Bookings page**:  
 
-🔗 [Book a Meeting](https://outlook.office.com/bookings/newmeetingtypecompose)  
+🔗 [Book a Meeting](https://outlook.office.com/bookwithme/user/b6d131eccaf2459e8f5c13203b50c751@virtualsilvr.com/meetingtype/20QamxUfJ0G6ofZlp8Pitw2?anonymous&ep=mlink)
 
 
