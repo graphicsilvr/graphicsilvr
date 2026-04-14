@@ -133,8 +133,6 @@ virtual-labs-platform/
 |---|---|---|
 | LinkedIn | [sylvion-finisie](https://www.linkedin.com/in/sylvion-finisie-124399205) | Full profile & endorsements |
 | DataCamp | [virtualsenzu](https://www.datacamp.com/portfolio/virtualsenzu) | Certified portfolio & data projects |
-| Upwork | [Profile](https://www.upwork.com/freelancers/~014da2b281d57968df) | Global freelance |
-| Freelance.nl | [Profile](https://mijn.freelance.nl/mijn-profiel) | Dutch market |
 | Virtual Labs | [labsvirtual.com](https://www.labsvirtual.com) | Company *(in development)* |
 | Email | [support@labsvirtual.com](mailto:support@labsvirtual.com) | Direct contact |
  
