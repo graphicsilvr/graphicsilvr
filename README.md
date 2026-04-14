@@ -14,7 +14,9 @@ I design and deliver end-to-end data platforms for enterprise clients in **healt
 My work runs the full stack: medallion architecture (bronze–silver–gold), OneLake integration, ELT/ETL automation, self-service BI, and DataOps. I combine hands-on implementation with a product mindset — I think in systems, not just scripts.
  
 > *"I build innovative platforms that bridge data analytics, automation, and AI."*
- 
+
+For a full work history, certifications, and client references → LinkedIn · CV available on request via support@labsvirtual.com
+
 ---
  
 ## 🏗️ Projects & Builds
