@@ -145,4 +145,4 @@ Want to talk data engineering, Microsoft Fabric, or a potential collaboration?
  
 ---
  
-*Haarlem, Netherlands
+Haarlem, Netherlands
