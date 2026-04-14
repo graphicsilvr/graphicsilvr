@@ -32,7 +32,7 @@ For a full work history, certifications, and client references → LinkedIn · C
 CLI inventory management tool with a Flask web front-end in progress.
  
 ```
-octo-superpy/
+octo-inventory-management/
 ├── cli/
 │   ├── main.py           # Entry point
 │   ├── commands/         # buy, sell, report, export
@@ -74,7 +74,7 @@ azure-devops-suite/
  
 ---
  
-### 🏭 Virtual Labs — Data Platform (Medallion Architecture)
+### 🏭 Labs Virtual — Data Platform Accelerator (Medallion Architecture)
 ![Status](https://img.shields.io/badge/status-architecture%20phase-blue?style=flat-square)
 ![Stack](https://img.shields.io/badge/stack-Microsoft%20Fabric%20%7C%20PySpark%20%7C%20KQL-purple?style=flat-square)
  
