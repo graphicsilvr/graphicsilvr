@@ -145,4 +145,4 @@ Want to talk data engineering, Microsoft Fabric, or a potential collaboration?
  
 ---
  
-*Haarlem, Netherlands · he/him · Available for assignments · €80–130/hr*
+*Haarlem, Netherlands
