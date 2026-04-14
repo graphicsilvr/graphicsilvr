@@ -4,7 +4,6 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvion%20Finisie-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvion-finisie-124399205)
 [![DataCamp](https://img.shields.io/badge/DataCamp-Certified-03EF62?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/virtualsenzu)
-[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014da2b281d57968df)
 [![Virtual Labs](https://img.shields.io/badge/Virtual%20Labs-Founder-5C2D91?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.labsvirtual.com)
  
 ---
