@@ -100,8 +100,6 @@ Operational intelligence layer on top of the Fabric Data Accelerator. Observabil
 | **LinkedIn** | [sylvion-finisie](https://www.linkedin.com/in/sylvion-finisie-124399205) |
 | **Labs Virtual** | [labsvirtual.com](https://www.labsvirtual.com) — Data Platform Studio |
 | **Virtual Silvr** | [virtualsilvr.com](https://www.virtualsilvr.com) — Markets Intelligence |
-| **Markets** | [markets.virtualsilvr.com](https://markets.virtualsilvr.com) |
-| **Platform** | [platform.labsvirtual.com](https://platform.labsvirtual.com) |
 | **Email** | [support@labsvirtual.com](mailto:support@labsvirtual.com) |
 
 ---
