@@ -102,7 +102,7 @@ Operational intelligence layer on top of the Fabric Data Accelerator. Observabil
 | **Virtual Silvr** | [virtualsilvr.com](https://www.virtualsilvr.com) — Markets Intelligence |
 | **Markets** | [markets.virtualsilvr.com](https://markets.virtualsilvr.com) |
 | **Platform** | [platform.labsvirtual.com](https://platform.labsvirtual.com) |
-| **Email** | [azure@virtualsilvr.com](mailto:azure@virtualsilvr.com) |
+| **Email** | [support@labsvirtual.com](mailto:support@labsvirtual.com) |
 
 ---
 
