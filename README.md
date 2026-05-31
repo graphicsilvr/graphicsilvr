@@ -122,7 +122,6 @@ virtual-labs-platform/
 | Microsoft Fabric Analytics Engineer Associate | Microsoft | 2026 |
 | Azure Fundamentals (AZ-900) | Microsoft | 2024 |
 | Azure Data Fundamentals (DP-900) | Microsoft | 2023 |
-| MLOps | DataCamp | 2022 |
  
 ---
  
@@ -132,7 +131,8 @@ virtual-labs-platform/
 |---|---|---|
 | LinkedIn | [sylvion-finisie](https://www.linkedin.com/in/sylvion-finisie-124399205) | Full profile & endorsements |
 | DataCamp | [virtualsenzu](https://www.datacamp.com/portfolio/virtualsenzu) | Certified portfolio & data projects |
-| Virtual Labs | [labsvirtual.com](https://www.labsvirtual.com) | Company *(in development)* |
+| Virtual Labs | [labsvirtual.com](https://www.labsvirtual.com) | Data Platform Architecture Studio |
+| Virtual Silvr | [labsvirtual.com](https://www.virtualsilvr.com) | Markets Intelligence |
 | Email | [support@labsvirtual.com](mailto:support@labsvirtual.com) | Direct contact |
  
 ---
