@@ -1,148 +1,115 @@
 # Hi, I'm Sylvion 👋
- 
-**Data Platform Architect · Microsoft Fabric & Azure · Implementation-Led**
- 
+
+**Founder · Data Platform Architect · Full-Stack Engineer**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvion%20Finisie-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvion-finisie-124399205)
-[![DataCamp](https://img.shields.io/badge/DataCamp-Certified-03EF62?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/virtualsenzu)
-[![Virtual Labs](https://img.shields.io/badge/Virtual%20Labs-Founder-5C2D91?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.labsvirtual.com)
- 
----
- 
-I design and deliver end-to-end data platforms for enterprise clients in **healthcare, government, and energy** — from architecture through working pipelines.
- 
-My work runs the full stack: medallion architecture (bronze–silver–gold), OneLake integration, ELT/ETL automation, self-service BI, and DataOps. I combine hands-on implementation with a product mindset — I think in systems, not just scripts.
- 
-> *"I build innovative platforms that bridge data analytics, automation, and AI."*
-
-For a full work history, certifications, and client references → LinkedIn · CV available on request via support@labsvirtual.com
+[![Labs Virtual](https://img.shields.io/badge/Labs%20Virtual-Data%20Platform%20Studio-5C2D91?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.labsvirtual.com)
+[![Virtual Silvr](https://img.shields.io/badge/Virtual%20Silvr-Markets%20Intelligence-1a1a2e?style=flat-square&logo=chartdotjs&logoColor=white)](https://www.virtualsilvr.com)
 
 ---
- 
-## 🏗️ Projects & Builds
- 
-> Most projects are in active development. Each has an architecture doc or folder structure below — full code and READMEs publish as builds complete.
- 
+
+I'm the founder of two product companies based in Haarlem, Netherlands.
+
+**[Labs Virtual](https://www.labsvirtual.com)** builds enterprise data platforms on Microsoft Fabric — from architecture through working pipelines. The flagship product is the Fabric Data Accelerator: a medallion lakehouse (Bronze → Silver → Gold) that deploys to any Azure tenant in under 2 hours, driven by metadata and fully automated via CI/CD.
+
+**[Virtual Silvr](https://www.virtualsilvr.com)** is a markets intelligence platform — real-time financial data, signals, and analytics delivered through a React front-end with a Python backend, deployed on Azure.
+
+I build the full stack: data engineering (PySpark, Delta Lake, Microsoft Fabric), backend APIs (Python, FastAPI), React front-ends, and the infrastructure layer (Terraform, Bicep, Azure). Everything is designed to be production-grade, client-deployable, and scalable.
+
+> *Data into direction. Complexity into clarity.*
+
 ---
- 
-### 🔧 Retail-Intelligence-Platform
+
+## Products
+
+### [Labs Virtual — Fabric Data Accelerator](https://github.com/graphicsilvr/labs-virtual-fabric-accelerator)
+![Status](https://img.shields.io/badge/status-v1%20released-brightgreen?style=flat-square)
+![Stack](https://img.shields.io/badge/stack-Microsoft%20Fabric%20%7C%20PySpark%20%7C%20Azure%20SQL%20%7C%20Terraform-742774?style=flat-square)
+
+Enterprise medallion lakehouse deployable on Microsoft Fabric. Metadata-driven ELT via a central `controlDB` — configure what to ingest, the platform handles the rest.
+
+- **Bronze** — raw Parquet ingestion from Azure SQL, REST APIs, flat files
+- **Silver** — cleansed Delta Lake tables via PySpark transforms
+- **Gold** — aggregated Fabric Warehouse, ready for Power BI Direct Lake
+- **IaC** — Bicep (current) + Terraform (roadmap) for one-command client deployment
+- **CI/CD** — GitHub Actions + fabric-cicd deploys all notebooks and pipelines automatically
+
+→ [View repository](https://github.com/graphicsilvr/labs-virtual-fabric-accelerator) · [Documentation](https://dev.azure.com/labsvirtual/fabric-data-accelerator/_wiki)
+
+---
+
+### [Virtual Silvr — Markets Intelligence Platform](https://www.virtualsilvr.com)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
-![Stack](https://img.shields.io/badge/stack-Python%20%7C%20Flask%20%7C%20CLI-3776AB?style=flat-square)
- 
-CLI inventory management tool with a Flask web front-end in progress.
- 
-```
-octo-inventory-management/
-├── cli/
-│   ├── main.py           # Entry point
-│   ├── commands/         # buy, sell, report, export
-│   └── models/           # Product, Transaction, Report
-├── web/                  # Flask front-end (in progress)
-│   ├── app.py
-│   ├── templates/
-│   └── static/
-├── data/
-│   └── inventory.csv
-├── tests/
-└── README.md
-```
- 
+![Stack](https://img.shields.io/badge/stack-React%20%7C%20Python%20%7C%20FastAPI%20%7C%20Azure-0078D4?style=flat-square)
+
+Real-time markets data, signals, and analytics platform. React front-end, Python/FastAPI backend, deployed on Azure.
+
+- **[markets.virtualsilvr.com](https://markets.virtualsilvr.com)** — live markets intelligence dashboard
+- **[platform.labsvirtual.com](https://platform.labsvirtual.com)** — data platform client portal (in progress)
+
 ---
- 
-### ☁️ Azure DevOps & Automation Suite
-![Status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
-![Stack](https://img.shields.io/badge/stack-Azure%20%7C%20Docker%20%7C%20CI%2FCD-0078D4?style=flat-square)
- 
-CI/CD pipelines, workflow automation, and container orchestration for Virtual Labs infrastructure.
- 
-```
-azure-devops-suite/
-├── pipelines/
-│   ├── build.yml         # Azure DevOps build pipeline
-│   ├── deploy.yml        # Release to Azure Container Instances
-│   └── pr-checks.yml     # Pull request validation
-├── infrastructure/
-│   ├── main.bicep        # IaC: resource group, ACR, ACI
-│   └── parameters/
-├── containers/
-│   ├── Dockerfile
-│   └── docker-compose.yml
-├── scripts/
-│   └── setup.sh
-└── README.md
-```
- 
+
+### Labs Virtual DataOps Platform *(roadmap)*
+![Status](https://img.shields.io/badge/status-roadmap-lightgrey?style=flat-square)
+![Stack](https://img.shields.io/badge/stack-Fabric%20Eventhouse%20%7C%20KQL%20%7C%20Azure%20Monitor-purple?style=flat-square)
+
+Operational intelligence layer on top of the Fabric Data Accelerator. Observability, alerting, SLA/SLO dashboards, and CI/CD pipeline health — all in real-time via Fabric Eventhouse and KQL.
+
 ---
- 
-### 🏭 Labs Virtual — Data Platform Accelerator (Medallion Architecture)
-![Status](https://img.shields.io/badge/status-architecture%20phase-blue?style=flat-square)
-![Stack](https://img.shields.io/badge/stack-Microsoft%20Fabric%20%7C%20PySpark%20%7C%20KQL-purple?style=flat-square)
- 
-Internal data platform built on Microsoft Fabric. Implements the medallion pattern with OneLake as the storage layer.
- 
-```
-virtual-labs-platform/
-├── bronze/               # Raw ingestion layer
-│   ├── ingest_api.py     # REST / webhook ingestion
-│   └── ingest_files.py   # Blob / SharePoint landing
-├── silver/               # Cleaned & conformed layer
-│   ├── transform.py      # PySpark transformation jobs
-│   └── schema/           # Delta schema definitions
-├── gold/                 # Aggregated / BI-ready layer
-│   ├── semantic_model/   # Power BI dataset definitions
-│   └── kql_queries/      # KQL for real-time analytics
-├── pipelines/
-│   ├── adf_templates/    # Azure Data Factory templates
-│   └── fabric_notebooks/ # Fabric notebook configs
-├── docs/
-│   ├── architecture.md   # Full architecture document
-│   └── diagrams/         # Draw.io / Mermaid diagrams
-└── README.md
-```
- 
----
- 
-## ⚡ Tech Stack
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+## Tech Stack
+
+**Data & Analytics**
+
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Full-Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
- 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ---
- 
-## 🏅 Certifications
- 
+
+## Certifications
+
 | Certification | Issuer | Year |
 |---|---|---|
 | Microsoft Fabric Analytics Engineer Associate | Microsoft | 2026 |
 | Azure Fundamentals (AZ-900) | Microsoft | 2024 |
 | Azure Data Fundamentals (DP-900) | Microsoft | 2023 |
- 
+
 ---
- 
-## 🌍 Find me
- 
-| Platform | Link | Purpose |
-|---|---|---|
-| LinkedIn | [sylvion-finisie](https://www.linkedin.com/in/sylvion-finisie-124399205) | Full profile & endorsements |
-| DataCamp | [virtualsenzu](https://www.datacamp.com/portfolio/virtualsenzu) | Certified portfolio & data projects |
-| Virtual Labs | [labsvirtual.com](https://www.labsvirtual.com) | Data Platform Architecture Studio |
-| Virtual Silvr | [virtualsilvr.com](https://www.virtualsilvr.com) | Markets Intelligence |
-| Email | [support@labsvirtual.com](mailto:support@labsvirtual.com) | Direct contact |
- 
+
+## Find me
+
+| | |
+|---|---|
+| **LinkedIn** | [sylvion-finisie](https://www.linkedin.com/in/sylvion-finisie-124399205) |
+| **Labs Virtual** | [labsvirtual.com](https://www.labsvirtual.com) — Data Platform Studio |
+| **Virtual Silvr** | [virtualsilvr.com](https://www.virtualsilvr.com) — Markets Intelligence |
+| **Markets** | [markets.virtualsilvr.com](https://markets.virtualsilvr.com) |
+| **Platform** | [platform.labsvirtual.com](https://platform.labsvirtual.com) |
+| **Email** | [azure@virtualsilvr.com](mailto:azure@virtualsilvr.com) |
+
 ---
- 
-## 📅 Book a meeting
- 
-Want to talk data engineering, Microsoft Fabric, or a potential collaboration?
- 
-🔗 **[Schedule via Microsoft Bookings](https://outlook.office.com/bookwithme/user/b6d131eccaf2459e8f5c13203b50c751@virtualsilvr.com/meetingtype/20QamxUfJ0G6ofZlp8Pitw2?anonymous&ep=mlink)**
- 
+
+## Book a meeting
+
+[Schedule via Microsoft Bookings](https://outlook.office.com/bookwithme/user/b6d131eccaf2459e8f5c13203b50c751@virtualsilvr.com/meetingtype/20QamxUfJ0G6ofZlp8Pitw2?anonymous&ep=mlink)
+
 ---
- 
-Haarlem, Netherlands
+
+*Haarlem, Netherlands*
