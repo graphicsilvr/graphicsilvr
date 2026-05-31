@@ -132,7 +132,7 @@ virtual-labs-platform/
 | LinkedIn | [sylvion-finisie](https://www.linkedin.com/in/sylvion-finisie-124399205) | Full profile & endorsements |
 | DataCamp | [virtualsenzu](https://www.datacamp.com/portfolio/virtualsenzu) | Certified portfolio & data projects |
 | Virtual Labs | [labsvirtual.com](https://www.labsvirtual.com) | Data Platform Architecture Studio |
-| Virtual Silvr | [labsvirtual.com](https://www.virtualsilvr.com) | Markets Intelligence |
+| Virtual Silvr | [virtualsilvr.com](https://www.virtualsilvr.com) | Markets Intelligence |
 | Email | [support@labsvirtual.com](mailto:support@labsvirtual.com) | Direct contact |
  
 ---
