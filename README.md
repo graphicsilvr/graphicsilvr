@@ -1,6 +1,6 @@
 # Hi, I'm Sylvion 👋
 
-**Builder · Data Platform Architect · End to end Engineer**
+**Builder · Data Platform Architect · End to End Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvion%20Finisie-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvion-finisie-124399205)
 [![Labs Virtual](https://img.shields.io/badge/Labs%20Virtual-Data%20Platform%20Studio-5C2D91?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.labsvirtual.com)
