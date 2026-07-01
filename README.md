@@ -8,7 +8,7 @@
 
 ---
 
-I'm the founder of two product companies based in Haarlem, Netherlands.
+I'm the builder of the following dataplatforms intiatives to that showcase my full capabilities.
 
 **[Labs Virtual](https://www.labsvirtual.com)** builds enterprise data platforms on Microsoft Fabric — from architecture through working pipelines. The flagship product is the Fabric Data Accelerator: a medallion lakehouse (Bronze → Silver → Gold) that deploys to any Azure tenant in under 2 hours, driven by metadata and fully automated via CI/CD.
 
