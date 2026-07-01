@@ -1,6 +1,6 @@
 # Hi, I'm Sylvion 👋
 
-**Founder · Data Platform Architect · Full-Stack Engineer**
+**Builder · Data Platform Architect · End to end Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sylvion%20Finisie-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvion-finisie-124399205)
 [![Labs Virtual](https://img.shields.io/badge/Labs%20Virtual-Data%20Platform%20Studio-5C2D91?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.labsvirtual.com)
@@ -8,7 +8,7 @@
 
 ---
 
-I'm the builder of the following dataplatforms intiatives to that showcase my engineering capabilities.
+I build data platform initiatives that showcase my engineering capabilities across Microsoft Fabric, Azure, DevOps, and platform architecture.
 
 **[Labs Virtual](https://www.labsvirtual.com)** builds enterprise data platforms on Microsoft Fabric — from architecture through working pipelines. The flagship product is the Fabric Data Accelerator: a medallion lakehouse (Bronze → Silver → Gold) that deploys to any Azure tenant in under 2 hours, driven by metadata and fully automated via CI/CD.
 
