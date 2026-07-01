@@ -14,7 +14,7 @@ I build data platform initiatives that showcase my engineering capabilities acro
 
 **[Virtual Silvr](https://www.virtualsilvr.com)** is a markets intelligence platform — real-time financial data, signals, and analytics delivered through a React front-end with a Python backend, deployed on Azure.
 
-I build the full stack: data engineering (PySpark, Delta Lake, Microsoft Fabric), backend APIs (Python, FastAPI), React front-ends, and the infrastructure layer (Terraform, Bicep, Azure). Everything is designed to be production-grade, client-deployable, and scalable.
+I build the across the data egineering life cycle and platforms: data engineering (PySpark, Delta Lake, Microsoft Fabric), backend APIs (Python, FastAPI), React front-ends, and the infrastructure layer (Terraform, Bicep, Azure). Everything is designed to be production-grade, client-deployable, and scalable.
 
 > *Data into direction. Complexity into clarity.*
 
