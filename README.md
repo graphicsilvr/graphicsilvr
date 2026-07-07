@@ -87,7 +87,7 @@ Operational intelligence layer on top of the Fabric Data Accelerator. Observabil
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Microsoft Fabric Analytics Engineer Associate | Microsoft | 2026 |
+| Microsoft Fabric Analytics Engineer Associate (DP-700) | Microsoft | 2026 |
 | Azure Fundamentals (AZ-900) | Microsoft | 2024 |
 | Azure Data Fundamentals (DP-900) | Microsoft | 2023 |
 
