@@ -10,6 +10,8 @@
 
 Virtual Silvr started as IT consulting.
 
+I joined GitHub when I was approved for the technical preview of GitHub Copilot — March 2022, months before ChatGPT was widely adopted. I have been working with language models ever since, and watched Copilot become embedded across the entire Microsoft ecosystem.
+
 Labs Virtual started as a personal environment to build, test, and validate independently, without depending on client access or approval cycles to the portals like Azure, Microsoft Fabric or Databricks environments or Foundry AI to deploy Data & AI workloads.
 
 It became the place where I visualise and ship what I implement for clients.
