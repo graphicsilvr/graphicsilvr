@@ -45,7 +45,7 @@ Builds and manages digital platforms — from architecture design through produc
 | [markets.virtualsilvr.com](https://markets.virtualsilvr.com) | INVEST — Pre-IPO AI intelligence. Company profiles, watchlists and market data. Published on Azure Marketplace. | 🟡 live · investment |
 | [finisiea.nl](https://www.finisiea.nl) | MANAGED — NL tea-infusions webshop. WooCommerce storefront; Labs Virtual platform engagement. | 🟢 managed · active |
 
-A part of this work is hosted here on GitHub. The data platform work — organisational demos, proofs of concept and enterprise-grade data engineering — is managed in Azure DevOps: [dev.azure.com/labsvirtual](https://dev.azure.com/labsvirtual) — Git-integrated workspaces, CI/CD per platform.
+These repositories are what gets opened in conversations with clients and startups — not stored, used. The data platform work — organisational demos, proofs of concept and enterprise-grade data engineering — is managed in Azure DevOps: [dev.azure.com/labsvirtual](https://dev.azure.com/labsvirtual).
 
 ---
 
