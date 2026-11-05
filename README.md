@@ -72,7 +72,7 @@ Labs Virtual acts as a Microsoft Solutions Partner to help early-stage startups 
 
 ---
 
-### [Labs Virtual — Fabric Data Accelerator](https://github.com/graphicsilvr/labs-virtual-fabric-accelerator)
+### Labs Virtual — Fabric Data Accelerator
 ![Status](https://img.shields.io/badge/status-v1%20released-brightgreen?style=flat-square)
 ![Stack](https://img.shields.io/badge/stack-Microsoft%20Fabric%20%7C%20PySpark%20%7C%20Azure%20SQL%20%7C%20Bicep-742774?style=flat-square)
 
@@ -84,7 +84,7 @@ Enterprise medallion lakehouse deployable on Microsoft Fabric. Metadata-driven E
 - **IaC** — Bicep (current) + Terraform (roadmap) for one-command client deployment
 - **CI/CD** — GitHub Actions + fabric-cicd deploys all notebooks and pipelines automatically
 
-→ [View repository](https://github.com/graphicsilvr/labs-virtual-fabric-accelerator) · [Documentation](https://dev.azure.com/labsvirtual/fabric-data-accelerator/_wiki)
+→ Repository and documentation available on request — [support@labsvirtual.com](mailto:support@labsvirtual.com)
 
 ---
 
@@ -160,12 +160,6 @@ Pre-IPO AI intelligence for AI companies tracked across the Labs Virtual suite. 
 | **Markets Platform** | [markets.virtualsilvr.com](https://markets.virtualsilvr.com) |
 | **Azure DevOps** | [dev.azure.com/labsvirtual](https://dev.azure.com/labsvirtual) — data project work |
 | **Email** | [support@labsvirtual.com](mailto:support@labsvirtual.com) |
-
----
-
-## Book a meeting
-
-[Schedule via Microsoft Bookings](https://outlook.office.com/bookwithme/user/b6d131eccaf2459e8f5c13203b50c751@virtualsilvr.com/meetingtype/20QamxUfJ0G6ofZlp8Pitw2?anonymous&ep=mlink)
 
 ---
 
